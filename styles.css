@@ -110,7 +110,6 @@
         body.dark{
             background-image: linear-gradient(rgba(20, 20, 20, 0.8), rgba(20, 20, 20, 0.8)), 
                               url('bg.jpg');
-            background-position: center;
             background-size: cover;
             background-attachment: fixed;
         }
@@ -128,4 +127,5 @@
 
         body.dark .note{
             background-color: #666;
+
         }
